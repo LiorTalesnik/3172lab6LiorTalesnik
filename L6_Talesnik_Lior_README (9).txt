@@ -4,7 +4,8 @@ Lab 5
 
 * *Date Created*: 15 11 2025
 * *Last Modification Date*: 19 11 2025
-* *Lab URL*: <http://example.com/>
+* *Lab URL*: https://poetic-malasada-f22fdc.netlify.app/
+* *Lab URL*: https://git.cs.dal.ca/talesnik/3172lab6
 
 
 ## Authors
