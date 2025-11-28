@@ -36,6 +36,27 @@ body {
   padding: 50px;
 }
 
+
+
+
+.theme-light {
+  color: #212529;
+}
+
+.theme-light main {
+ 
+  color: #212529;
+}
+
+.theme-dark {
+  color: #f8f9fa;
+}
+
+.theme-dark main {
+
+  color: #f8f9fa;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
