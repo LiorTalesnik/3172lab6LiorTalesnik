@@ -2,8 +2,8 @@ Lab 6
 
 * *Date Created*: 20 11 2025
 * *Last Modification Date*: 27 11 2025
-* *Lab URL*: 
-* *Lab URL*: 
+* *Lab URL*: https://git.cs.dal.ca/talesnik/csci-3172-lab6
+* *Lab URL*: https://lab63171.netlify.app/
 
 ## IMPORTANT NOTES
 
